@@ -1,5 +1,10 @@
+body {
+  background-color: hsl(185, 41%, 84%);
+}
+
 .calculator-container {
   height: 15rem;
   width: 45rem;
   /* border: 10px solid red; */
+  background-color: hsl(0, 0%, 100%);
 }
