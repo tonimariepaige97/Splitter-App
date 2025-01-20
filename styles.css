@@ -11,7 +11,9 @@ body {
 }
 
 .calculator-container {
-  height: 15rem;
-  width: 45rem;
+  height: 20.5rem;
+  width: 39.5rem;
   background-color: hsl(0, 0%, 100%);
+  border-radius: 20px;
+  box-shadow: 10px 10px 15px rgba(0, 0, 0, 0.062);
 }
