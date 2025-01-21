@@ -35,4 +35,6 @@ body {
 
 .text-above-box {
   border: 1px solid red;
+  height: 6.7rem;
+  width: 15.5rem;
 }
