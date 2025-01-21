@@ -20,5 +20,19 @@ body {
   border-radius: 20px;
   box-shadow: 10px 10px 15px rgba(0, 0, 0, 0.062);
   display: flex;
+  justify-content: center;
+  gap: 30px;
+}
+
+.left-section {
+  border: 1px solid purple;
+  width: 15.5rem;
+}
+
+.right-section {
+  border: 1px solid red;
+}
+
+.text-above-box {
   border: 1px solid red;
 }
