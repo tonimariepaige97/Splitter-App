@@ -72,3 +72,9 @@ body {
   height: 152px;
   width: 379px;
 }
+
+.select-tip-element {
+  font-size: 16px;
+  font-weight: bold;
+  color: hsl(186, 14%, 43%);
+}
