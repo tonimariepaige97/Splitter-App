@@ -51,6 +51,7 @@ body {
   font-size: 26px;
   border: none;
   border-radius: 5px;
+  cursor: pointer;
 }
 
 .custom-btn {
@@ -62,6 +63,7 @@ body {
   font-weight: bold;
   font-size: 24px;
   border-radius: 5px;
+  cursor: pointer;
 }
 
 .bottom-half-btns {
