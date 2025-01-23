@@ -14,8 +14,8 @@ body {
 
 .calculator-container {
   font-size: 12px;
-  height: 20.5rem;
-  width: 39.5rem;
+  height: 21rem;
+  width: 40.5rem;
   background-color: hsl(0, 0%, 100%);
   border-radius: 20px;
   box-shadow: 10px 10px 15px rgba(0, 0, 0, 0.062);
@@ -25,8 +25,8 @@ body {
 }
 
 .left-section {
-  border: 1px solid purple;
-  width: 15.5rem;
+  border: 1px solid cyan;
+  width: 18rem;
 }
 
 .right-section {
@@ -35,6 +35,23 @@ body {
 
 .text-above-box {
   border: 1px solid red;
-  height: 6.7rem;
-  width: 15.5rem;
+  height: 6.8rem;
+  width: 18rem;
+}
+
+.tip-percent-btn {
+  width: 5.5rem;
+  height: 2rem;
+  color: white;
+  background-color: hsl(183, 100%, 15%);
+}
+
+.custom-btn {
+  width: 5.5rem;
+  height: 2rem;
+  color: white;
+  background-color: hsl(189, 41%, 97%);
+}
+
+.bottom-half-btns {
 }
