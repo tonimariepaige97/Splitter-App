@@ -54,6 +54,10 @@ body {
   cursor: pointer;
 }
 
+.tip-percent-btn:hover {
+  background-color: hsl(184, 14%, 56%);
+}
+
 .custom-btn {
   width: 117px;
   height: 48px;
